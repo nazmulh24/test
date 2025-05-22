@@ -3,3 +3,4 @@ sequrity.txt
 
 # Ignore folder...
 test/ 
+.DS_Store
